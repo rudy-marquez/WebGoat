@@ -35,7 +35,7 @@ import org.springframework.context.ApplicationContext;
 
 @Slf4j
 public class StartWebGoat {
-  static final String DB_PASSWORD="Secret@password#123";
+static final String DB_PASSWORD="Secret@password#123";
     
   public static void main(String[] args) {
     var parentBuilder =
